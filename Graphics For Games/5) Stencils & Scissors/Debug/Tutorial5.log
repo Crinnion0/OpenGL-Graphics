@@ -1,0 +1,5 @@
+﻿  Renderer.cpp
+c:\users\b3040642\documents\graphics\graphics code 2015\graphics for games\5) stencils & scissors\renderer.cpp(54): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\b3040642\documents\graphics\graphics code 2015\graphics for games\5) stencils & scissors\renderer.cpp(54): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  Tutorial5.vcxproj -> C:\Users\b3040642\Documents\Graphics\Graphics Code 2015\Graphics For Games\Debug\Tutorial 05 - Scissors and Stencils.exe
+  Tutorial5.vcxproj -> C:\Users\b3040642\Documents\Graphics\Graphics Code 2015\Graphics For Games\Debug\Tutorial 05 - Scissors and Stencils.pdb (Full PDB)

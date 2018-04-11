@@ -1,0 +1,5 @@
+﻿  Renderer1.cpp
+c:\users\b3040642\documents\graphics\graphics code 2015\nclgl\oglrenderer.h(22): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  main.cpp
+c:\users\b3040642\documents\graphics\graphics code 2015\nclgl\oglrenderer.h(22): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Generating Code...

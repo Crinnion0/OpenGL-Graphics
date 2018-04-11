@@ -1,0 +1,19 @@
+HUD frame time nsec:,16583000
+
+Range Index,Elapsed Time, First Event,Last Event
+0,6560,1,1
+1,7136,37,37
+2,672,43,43
+3,768,49,49
+4,672,55,55
+5,672,60,60
+6,15014272,72,72
+
+Range Index,Elapsed Time, First Event,Last Event
+0,6528,1,1
+1,6464,37,37
+2,672,43,43
+3,672,49,49
+4,672,55,55
+5,672,60,60
+6,14722592,72,72

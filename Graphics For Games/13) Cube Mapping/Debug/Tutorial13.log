@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Tutorial 13 - Cube Mapping.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Renderer3.cpp
+c:\users\b3040642\documents\graphics\graphics code 2015\graphics for games\13) cube mapping\renderer3.cpp(220): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\b3040642\documents\graphics\graphics code 2015\graphics for games\13) cube mapping\renderer3.cpp(406): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Tutorial13.vcxproj -> C:\Users\b3040642\Documents\Graphics\Graphics Code 2015\Graphics For Games\Debug\Daniel Crinnion - Coursework.exe
+  Tutorial13.vcxproj -> C:\Users\b3040642\Documents\Graphics\Graphics Code 2015\Graphics For Games\Debug\Daniel Crinnion - Coursework.pdb (Partial PDB)

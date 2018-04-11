@@ -1,0 +1,5 @@
+﻿  Renderer.cpp
+Renderer.cpp(6): warning C4305: 'argument': truncation from 'double' to 'float'
+Renderer.cpp(351): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  tutorial14.vcxproj -> C:\Users\b3040642\Documents\Graphics\Graphics Code 2015\Graphics For Games\Debug\Tutorial 14 - Shadow Mapping.exe
+  tutorial14.vcxproj -> C:\Users\b3040642\Documents\Graphics\Graphics Code 2015\Graphics For Games\Debug\Tutorial 14 - Shadow Mapping.pdb (Full PDB)
